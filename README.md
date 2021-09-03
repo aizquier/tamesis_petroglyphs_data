@@ -1,7 +1,34 @@
-Original dataset for the article *Solstitial arrangements of the precolumbian petroglyph complex of Támesis, Colombia*, by Pablo Cuartas and Leidy Y. Arango and Manuel A. Izquierdo
 
-Please see the Jupyter Notebook:
+#  *Disposiciones solsticiales del complejo de petroglifos precolombinos de Tamesis, Colombia*
+## Codigo Python utilizado
 
-Disposiciones_solsticiales_del_complejo_de_petroglifos_precolombinos_de_tamesis_colombia.ipynb
+**Pablo C. Restrepo**
+Institute of Physics
+University of Antioquia
+Medellín, Colombia
+Corresponding author
+pablo.cuartas@udea.edu.co
 
-For the procedure followed on the creation of figures.
+
+**Leidy A. Arias**
+Institute of Physics
+University of Antioquia
+Medellín, Colombia
+ljohanna.arango@udea.edu.co
+
+**Manuel A. Izquierdo**
+Centre d’Expertise Numérique pour la Recherche
+Université de Montréal
+Montreal, Canadá
+ma.izquierdo@umontreal.ca
+
+
+Dataset utilizado para el trabajo.
+
+Ver el Notebook de Jupyter:
+
+`Disposiciones_solsticiales_del_complejo_de_petroglifos_precolombinos_de_tamesis_colombia.ipynb` para el código Python utilizado en el artículo en la creación e figuras y la proyección de puntos de salida solar/lunar.
+
+Ver en línea [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aizquier/tamesis_petroglyphs_data/blob/master/Disposiciones_solsticiales_del_complejo_de_petroglifos_precolombinos_de_tamesis_colombia_COLAB.ipynb)
+
+
